@@ -21,6 +21,7 @@
    <a href="https://devcenter.heroku.com/articles/getting-started-with-java" class="alert-link">Czy wiesz, że ?</a>
   </div>
   <hr>
+  ${massMessage}
 </div>
 
 
