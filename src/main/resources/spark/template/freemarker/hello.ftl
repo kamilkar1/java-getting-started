@@ -13,7 +13,7 @@
     <a href="/" class="lang-logo">
       <img src="/lang-logo.png">
     </a>
-    <h1>Witamy na Sages Bootcamp</h1>
+    <h1>Wellcome, The force will be with you</h1>
   </div>
 </div>
 <div class="container">
