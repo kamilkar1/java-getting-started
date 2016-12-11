@@ -21,7 +21,7 @@
 </div>
 <div class="container">
   <div class="alert alert-info text-center" role="alert">
-    To deploy your own copy, and learn the fundamentals of the Heroku platform, head over to the <a href="https://devcenter.heroku.com/articles/getting-started-with-java" class="alert-link">Getting Started with Java on Heroku</a> tutorial.
+   <a href="https://devcenter.heroku.com/articles/getting-started-with-java" class="alert-link">Czy wiesz, że ?</a> tutorial.
   </div>
   <hr>
 </div>
